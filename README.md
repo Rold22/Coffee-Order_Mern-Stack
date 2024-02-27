@@ -1,6 +1,6 @@
 1.MERN STACK  Coffee Orders WebSite 
 
-2  Api folder  create pu .env file  and =
+2  Api folder  create  .env file and =
 MONGO_URL=  Your MongoDb key!
 
 
